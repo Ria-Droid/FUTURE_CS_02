@@ -26,4 +26,3 @@ This project focuses on analyzing phishing email samples and identifying common 
 4. Classified emails into Safe, Suspicious, and Phishing
 5. Developed user awareness guidelines
 
-## 📂 Project Structure
